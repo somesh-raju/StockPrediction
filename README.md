@@ -26,7 +26,7 @@ Input a stock symbol to fetch data. The app will run the entire ZenML pipeline f
 
 ## Pipeline Architecture
 
-![architecture diagram](https://dagshub.com/somesh.d84/StockPrediction/raw/MLflowDeployer/StockPredArch.png)
+![StockPredArch (1)](https://github.com/somesh-raju/StockPrediction/assets/27999651/e6df8486-d374-4b4e-ad98-3061ae519641)
 
 - Web frontend: Streamlit
 - ML Pipeline: ZenML
